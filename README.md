@@ -11,17 +11,17 @@ A results-driven software development expert with over 7 years of hands-on exper
 
 ### 🛠️ Tech Stack  
 #### Languages:
-Python, JavaScript, Perl, Lua, HTML/CSS, XML
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Perl](https://img.shields.io/badge/-Perl-39457E?logo=perl&logoColor=white)  ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)  ![HTML5](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  ![XML](https://img.shields.io/badge/-XML-8A2BE2?logo=html5&logoColor=white)  
 #### Backend Technologies:
-FastAPI, Fask, gRPC, Django  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=grpc&logoColor=white)  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
 #### Databases:
-PostgreSQL, MongoDB, DynamoDB, SQLite, MySQL
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazondynamodb&logoColor=white)  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
 #### Cloud & DevOps:
-AWS, Docker, Kubernetes
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
 #### Libraries:
-Pandas, Numpy, Airflow, Tensorflow, Keras, Pytorch, OpenCV
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)  ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white)  ![Tensorflow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  
 #### Tools/Platforms:
-Gitlab, Ansible, Terraform, Grafana, Prometheus, Kibana, Concourse, CI/CD, API, Postman
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)  ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)  ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)  ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)  ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)  ![Kibana](https://img.shields.io/badge/-Kibana-005571?logo=kibana&logoColor=white)  ![Concourse](https://img.shields.io/badge/-Concourse-3399FF?logo=concourse&logoColor=white)  ![CI/CD](https://img.shields.io/badge/-CI/CD-00875A?logo=continuousintegration&logoColor=white)  ![API](https://img.shields.io/badge/-API-FF6D00?logo=web&logoColor=white)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
 
 ### 🎖️ Professional Experience  
 
