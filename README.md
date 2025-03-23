@@ -1,6 +1,8 @@
 ## Hi there, I'm Md Afzal Hassan! 👋  
 🚀 **Senior Software Engineer | Backend Developer | Tech Enthusiast | Lead Engineer**
 
+![Profile Views](https://komarev.com/ghpvc/?username=afzalhasn&color=blue)
+
 A results-driven software development expert with over 7 years of hands-on experience in building and deploying scalable backend solutions, specializing in Python and its frameworks like FastAPI, Fask and Django. My expertise includes designing high-performance applications, optimizing databases, and ensuring seamless system architecture.Adaptable and passionate about continuous learning, I excel in solving complex challenges and driving software enhancements across diverse organizational cultures.
 
 <div align="center">
