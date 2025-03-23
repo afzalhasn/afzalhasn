@@ -3,7 +3,10 @@
 
 A results-driven software development expert with over 7 years of hands-on experience in building and deploying scalable backend solutions, specializing in Python and its frameworks like FastAPI, Fask and Django. My expertise includes designing high-performance applications, optimizing databases, and ensuring seamless system architecture.Adaptable and passionate about continuous learning, I excel in solving complex challenges and driving software enhancements across diverse organizational cultures.
 
-<img src="https://camo.githubusercontent.com/803226302ac9ed44d0caeadcaee81c6797400dc7b6da544bb78c80c59ebdfca3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="Camo Banner" width="100%"/>
+<div align="center">
+  <img src="https://camo.githubusercontent.com/803226302ac9ed44d0caeadcaee81c6797400dc7b6da544bb78c80c59ebdfca3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="Camo Banner" width="50%"/>
+</div>
+
 
 ### 🔥 About Me
 - 💻 Currently working as a **Lead Consultants** at **Genpact**  
